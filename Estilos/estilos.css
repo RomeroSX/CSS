@@ -1,0 +1,15 @@
+[href^="https://www.senasofiaplus.edu.co/"] {
+  color: #fff;
+  text-decoration: none;
+}
+main h1{
+  color: blueviolet;
+  font-size: 40px;
+}
+p {
+  color: steelblue;
+}
+h1 , h2{
+  color: brown;
+  font-size: 45px;
+}
