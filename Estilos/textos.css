@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Edu AU VIC WA NT Guides";
+
+}
+
+p{
+    font-size: 120px;
+    color: blueviolet;
+    text-transform: uppercase;
+    font-weight: 100;
+    line-height: 1.5;
+    text-shadow: 1px 1px 4px #4d1414;
+
+}
+a{
+    text-decoration: none;
+    font-size: 60px;
+    color: brown;
+    cursor: wait;
+    background-color: aqua;
+}

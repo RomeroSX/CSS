@@ -1,0 +1,15 @@
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin: auto;
+    box-shadow: 0px 0px 10px 0 salmon;
+    border-radius: 10%;
+    border: solid 1px blueviolet;
+ 
+}
